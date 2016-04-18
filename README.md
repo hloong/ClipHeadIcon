@@ -1,6 +1,8 @@
 # ClipHeadIcon
 微信头像剪裁Demo
 
+效果如下
+![](https://github.com/hloong/ClipHeadIcon/blob/master/ScreenRecord_2016-04-18-14-14-19.gif)
 
 网上搜到了以下参考资料，其中clip-image犹豫项目太繁琐我没用采用，转而看了clip-image作者引用的2个csdn链接
 
